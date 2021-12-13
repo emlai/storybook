@@ -9,6 +9,7 @@
     "sb": "node ../../lib/cli/bin/index.js"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "formik": "^2.2.9",
     "prop-types": "15.7.2",
     "react": "16.14.0",
